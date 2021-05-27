@@ -49,7 +49,7 @@ $ python app.py
  * Restarting with stat
 ```
 
-![screenshot of the dashboard](/static/img/dashboard.png)
+![screenshot of the dashboard](/static/img/dashboard.gif)
 
 ## Organization
 In repository of project you find:
